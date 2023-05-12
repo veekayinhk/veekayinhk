@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, markets, piano, history and law
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects relating to markets
-- 📫 How to reach me by leaving a comment
+- 📫 Reach me by leaving a comment
 
 <!---
 veekayinhk/veekayinhk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
