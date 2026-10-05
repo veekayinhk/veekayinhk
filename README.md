@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veekayinhk
 - 👀 I’m interested in technology, markets, piano, history and law
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning commodities, Chinese history and AI topics within computing.
 - 💞️ I’m looking to collaborate on projects relating to markets
 - 📫 Reach me by leaving a comment
 
